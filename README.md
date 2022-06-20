@@ -1,24 +1,9 @@
 # Advanced-Data-Visualization-in-Matplotlib-Seaborn-Plotly
-Part 1 Matplotlib Package
+Part 1 Matplotlib Package:Comparison between stateful and stateless approach/Adjust coordinate objects/Visualization case with Matplotlib
 
-1.1 Comparison between stateful and stateless approach
+Part 2 Seaborn Package:Creating Chart in Seaborn/Modify in Seaborn/7 days moving average of duration
 
-1.2 Adjust coordinate objects
-
-1.3 Visualization case with Matplotlib
-
-
-Part 2 Seaborn Package
-
-2.1 Creating Chart in Seaborn
-
-2.2 Modify in Seaborn
-
-2.3 7 days moving average of duration
-
-Part 3 Plotly Package
-
-3.1 Interactive Visualizations (sankey chart/scatter plot/piechatr)
+Part 3 Plotly Package: 3.1 Interactive Visualizations (sankey chart/scatter plot/piechatr)
 
 Part 4 Global Sales Data Follow-up
 
